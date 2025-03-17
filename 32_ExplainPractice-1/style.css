@@ -143,6 +143,7 @@ div.star svg {
     align-items: center;
     width: 100%;
     margin-top: 15px;
+    gap: 10px;
 }
 
 .price-r {
